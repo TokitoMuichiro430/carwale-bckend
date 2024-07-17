@@ -1,5 +1,5 @@
 {
-  "name": "server",
+  "name": "backend",
   "version": "1.0.0",
   "description": "Backend for Car Buying Website M.E.R.N Stack",
   "main": "server.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon server.js"
   },
-  "author": "Meet Dodiya",
+  "author": "Carwale backend",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
